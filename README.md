@@ -1,3 +1,7 @@
-### Hi there 👋
+### Hi there 👋, Filipe Figueredo
+#### Software and Development
+![Software and Development](https://i.giphy.com/media/1C8bHHJturSx2/giphy.webp)
 
-I'am Filipe from Brasil, i end a software development course in SESI-SENAI recently, i enjoy learn programing, i realy like ui and ux, since front end is more easy to me, but i also realy like to study API's and frameworks.
+I'am Filipe from Brasil, i end a software development course in SESI-SENAI recently, i enjoy learn programing, i realy like ui and ux, since front end is more easy to me, but i also realy like to study and work in API's frameworks and databases.
+
+Skills: / HTML / C / PYTHON / CSS

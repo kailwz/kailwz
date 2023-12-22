@@ -2,7 +2,7 @@
 * 🖼️ Image: https://www.youtube.com/watch?v=uVzT6D-yhZg 0:51
 
 # Hi there 👋, I'am Filipe Figueredo
-I'am Filipe from Brasil, i end a software development course in SESI-SENAI recently, i enjoy learn programing, i realy like ui and ux, since front end is more easy to me, but i also realy like to study and work in API's frameworks and databases.
+I'am Filipe from Brasil, i end a software development course in SESI-SENAI, i enjoy learn programing, i realy like ui and ux, since front end is more easy to me, but i also realy like to study and work in API's frameworks and databases.
 
 ## My Skills
 * 🌱 C.

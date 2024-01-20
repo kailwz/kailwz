@@ -1,5 +1,4 @@
-![Software and Development](https://github.com/kailwz/kailwz/blob/main/no_birds.png)
-* 🖼️ Image: https://www.youtube.com/watch?v=uVzT6D-yhZg 0:51
+![Software and Development](https://github.com/kailwz/kailwz/blob/main/banner.png)
 
 # Hi there 👋, I'am Filipe Figueredo
 I'am Filipe from Brasil, i end a software development course in SESI-SENAI, i enjoy learn programing, i realy like ui and ux, since front end is more easy to me, but i also realy like to study and work in API's frameworks and databases.

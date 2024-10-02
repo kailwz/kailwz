@@ -11,4 +11,6 @@ I'am Filipe from Brasil, i end a software development course in SESI-SENAI, i en
 ## What i'am doing
 - 🔭 I’m currently working on My own game.
 - 🌱 I’m currently learning C.
-- 📫 How to reach me: filipefigueredo687@gmail.com.
+- 📫 How to reach me: 
+• kailwz462@gmail.com.
+• <a href="https://www.linkedin.com/in/filipe-figueredo-2ba1b4263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">https://www.linkedin.com/in/filipe-figueredo</a>

@@ -1,7 +1,7 @@
 ![Software and Development](https://github.com/kailwz/kailwz/blob/main/banner.png)
 
 # Hi there 👋, I'am Filipe Figueredo
-My name is Filipe i'am from Brasil, i hab a software development course in SESI-SENAI and i'am currently studing Computer Science, i realy enjoy learn programing visuals like ui and ux, since front end is more easy to me, but i also realy like to study and work in API's frameworks and databases.
+My name is Filipe i'am from Brasil, i have a software development course in SESI-SENAI and i'am currently studing Computer Science, i realy enjoy learn programing, for the most part  ui and ux, since front end is more easy to me, but i also realy like to study and work in API's frameworks and databases.
 
 ## My Skills
 * 🌱 C.

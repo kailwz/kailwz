@@ -1,7 +1,7 @@
-<img src="https://github.com/kailwz/kailwz/blob/main/images/banner.gif" style="width:846px; height:auto">
+<img src="https://github.com/kailwz/kailwz/blob/main/images/banner.gif" style="width:846px; height:auto;">
 
 <h1 align="center">🎯Hi Wellcome to my GitHub, I'am Filipe Figueredo</h1>
-<p># My name is Filipe and i realy like to code in c solving problems and chalenges, i'm currently pursuing a degree in  Computer Science, i realy enjoy learning programing and new abilities, for me ux and ui is the most important part so i am a little bit of a perfectionist about it, but also realy like to study, work and code backend relatd things such as AI, machine learning, databases, programing logic, math in conputation etc.</p>
+<p>💬 My name is Filipe and i realy like to code in c solving problems and chalenges, i'm currently pursuing a degree in  Computer Science, i realy enjoy learning programing and new abilities, for me ux and ui is the most important part so i am a little bit of a perfectionist about it, but also realy like to study, work and code backend relatd things such as AI, machine learning, databases, programing logic, math in conputation etc.</p>
 
 <div>
 	<h2>⚡About me</h2>
@@ -43,5 +43,5 @@
 
 
 <h2 align="center">See my projects below!</h2>
-<img src="https://github.com/kailwz/kailwz/blob/main/images/decoration.png" style="width:auto; height:auto">
+<img src="https://github.com/kailwz/kailwz/blob/main/images/decoration.png" style="width:auto; height:auto;">
 

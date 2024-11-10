@@ -16,10 +16,10 @@
 
 <h3>✉️ Reach me here!</h3>
 <a href="mailto:kailwz462@gmail.com"">
-	<img src="https://github.com/kailwz/kailwz/blob/main/images/gmail_icon.png" alt="Gmail"">
+	<img src="https://github.com/kailwz/kailwz/blob/main/images/gmail_icon.png">
 </a>
 <a href="https://www.linkedin.com/in/filipe-figueredo-2ba1b4263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-	<img src="https://github.com/kailwz/kailwz/blob/main/images/linkedin_icon.png" alt="Linkedin">
+	<img src="https://github.com/kailwz/kailwz/blob/main/images/linkedin_icon.png">
 </a>
 
 

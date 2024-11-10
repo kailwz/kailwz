@@ -22,6 +22,7 @@
 	<img src="https://github.com/kailwz/kailwz/blob/main/images/linkedin_icon.png">
 </a>
 
+
 <h2 align="center">🚀 What have worked with?</h2>
 
 <div align="center">
@@ -39,6 +40,7 @@
 	<img src="https://github.com/kailwz/kailwz/blob/main/images/mint_icon.png">
 	<img src="https://github.com/kailwz/kailwz/blob/main/images/zorin_icon.png">
 </div>
+
 
 <h2 align="center">See my projects below!</h2>
 <img src="https://github.com/kailwz/kailwz/blob/main/images/decoration.png" style="width:auto; height:auto">

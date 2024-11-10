@@ -5,7 +5,7 @@
 
 <div>
 	<h2>About me</h2>
-	<ul align="right">
+	<ul>
 		<li>🔭 I'm Currently working on My own 2d pixe game.</li>
 		<li>🔭 I'm in college doing Computer Science.</li>
 		<li>🌱 I'm learning about the C programing language.</li>

@@ -43,5 +43,4 @@
 
 
 <h2 align="center">See my projects below!</h2>
-<img src="https://github.com/kailwz/kailwz/blob/main/images/decoration.png" style="width:auto; height:auto;">
 

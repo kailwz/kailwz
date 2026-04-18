@@ -1,4 +1,4 @@
-<img src="https://github.com/kailwz/kailwz/blob/main/images/banner.gif" style="width:846px; height:auto;">
+<img src="https://github.com/kailwz/kailwz/blob/main/images/banner.gif" style="width:auto; height:auto;">
 
 <h1 align="center">🎯Hi Wellcome to my GitHub, I'am Filipe Figueredo</h1>
 <p>💬 My name is Filipe and i realy like to code in c solving problems and chalenges, i'm currently pursuing a degree in  Computer Science, i realy enjoy learning programing and new abilities, for me ux and ui is the most important part so i am a little bit of a perfectionist about it, but also realy like to study, work and code backend relatd things such as AI, machine learning, databases, programing logic, math in conputation etc.</p>
@@ -9,8 +9,7 @@
 		<li>🕹️ I'm currently working on My own 2d pixel game.</li>
 		<li>📚 I'm in college doing Computer Science.</li>
 		<li>🔭 I'm learning about the C programing language.</li>
-		<li>📼 I realy like inovation, but old tech theres a special place in my heart.</li>
-		<li>💣 I flood ping sometimes.</li>
+		<li>📼 I realy like inovation, but i find old tech cooler</li>
 	</ul>
 </div>
 
@@ -23,7 +22,7 @@
 </a>
 
 
-<h2 align="center">🚀 What have worked with?</h2>
+<h2 align="center">🚀 What i have experience with?</h2>
 
 <div align="center">
 	<img src="https://github.com/kailwz/kailwz/blob/main/images/c_icon.png">
